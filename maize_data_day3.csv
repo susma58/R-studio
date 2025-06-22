@@ -1,0 +1,13 @@
+PlotID,Variety,Fertilizer,Yield_kg,Height_cm
+1,A,Organic,2.1,120
+2,A,Inorganic,2.4,125
+3,A,Organic,2.2,122
+4,A,Inorganic,2.5,130
+5,B,Organic,2.9,135
+6,B,Inorganic,3.0,138
+7,B,Organic,2.8,133
+8,B,Inorganic,3.2,137
+9,C,Organic,3.5,145
+10,C,Inorganic,3.6,147
+11,C,Organic,3.3,144
+12,C,Inorganic,3.7,150
