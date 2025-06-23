@@ -1,0 +1,7 @@
+PlotID,FarmerID,Variety,Fertilizer,Yield_kg,Height_cm
+1,101,Local,Organic,2.4,120
+2,102,Hybrid,Inorganic,3.1,135
+3,101,Hybrid,Organic,2.8,128
+4,103,Local,Inorganic,2.5,130
+5,104,Hybrid,Organic,3.3,140
+6,102,Local,Inorganic,2.2,122
